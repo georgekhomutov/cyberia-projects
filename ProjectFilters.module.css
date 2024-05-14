@@ -1,0 +1,20 @@
+/* src/components/ProjectFilters.module.css */
+.filters {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  .filters button {
+    margin: 0 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .filters button:hover {
+    background: #0056b3;
+  }
+  
